@@ -63,22 +63,22 @@ First, let's look at how the PID controller works in a closed-loop system using 
 
 The video of the working prototype and others:
    
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false
 
 
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328778&node=11168175&a=1395076051&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328778&node=11168175&a=1395076051&preload=false
 
 
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328731&node=11168092&a=1565057628&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328731&node=11168092&a=1565057628&preload=false
 
 
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328727&node=11168080&a=1861341087&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328727&node=11168080&a=1861341087&preload=false
 
 
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false
 
 
-<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328717&node=11168064&a=1034560910&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+https://msudenver.yuja.com/V/Video?v=3328717&node=11168064&a=1034560910&preload=false
 
    
 All the codes can be found in repository above.
