@@ -60,7 +60,28 @@ First, let's look at how the PID controller works in a closed-loop system using 
 
 ![Screen Shot 2021-07-16 at 10 32 35 AM](https://user-images.githubusercontent.com/29171502/125965506-e8188161-40bf-4bce-b69f-05c4997313e3.png)
 
-   The video of the working prototype can be found in repository above and so are all the codes.
+
+The video of the working prototype and others:
+   
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328778&node=11168175&a=1395076051&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328731&node=11168092&a=1565057628&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328727&node=11168080&a=1861341087&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328722&node=11168075&a=1629715379&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://msudenver.yuja.com/V/Video?v=3328717&node=11168064&a=1034560910&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+   
+All the codes can be found in repository above.
 
 Conclusion:
     Even though I was not able to combine both, just the altitude PID control do an excellent job holding the project together. I mean both PID’s are working individually perfectly but the combination of both offset both. The picture showed above show the final prototype of both the FC and the RC. And the video that I am about to play you see how perfect my drone hover. At the push of the button my drone will take off even though it’s not completely stable at the beginning. The landing button has issue too because my landing code does not execute, and I figure out why, but I did not have anymore time left to correct it. I need to find a way to exit the take off loop so the landing loop can be activated at the push of the other button. It is important for me to clarify that I uncover several issues when I was doing this project. There is room for improvement for this project, future senior can work to ameliorate the design and add up stuff to it. Before I close this presentation, I need to say that I underestimate this project (because doing this project alone is impossible specially when you have other upper-level classes to think about. I have done more work in the past 2 months than the entire 8 months).
